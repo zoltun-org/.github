@@ -11,10 +11,11 @@ and maybe you want it to match the wallpaper.
 * Autosaves prompt history
 * Comes with several themes but you can customize the themes and colors to your liking too.
 
-Current release is v0.9-beta. It only supports z.ai. It differs slightly from the 
+Current release is v0.9-beta. It currently only supports z.ai. It differs slightly from the 
 full version which features multiple providers and some QoL improvements, 
 but I wanted to get it out there while I bugtest 1.0 further 
-since people keep mentioning theyre losing prompt history on z.ai chat client
+since people keep mentioning theyre losing prompt history on z.ai chat client.
+We have no affiliation or ties to GLM or z.ai.
 
 ## Releases
 * **[Latest Release](https://github.com/zoltun-org/zoltun-project/releases)**
