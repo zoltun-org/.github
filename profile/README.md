@@ -16,6 +16,9 @@ full version which features multiple providers and some QoL improvements,
 but I wanted to get it out there while I bugtest 1.0 further 
 since people keep mentioning theyre losing prompt history on z.ai chat client
 
+## Releases
+* **[Latest Release](https://github.com/zoltun-org/zoltun-project/releases)**
+
 ## 🛠 Projects
 * **[Zoltun Project](https://github.com/zoltun-org/zoltun-project)**: Our flagship Python/Tkinter application.
 * **Infrastructure**: Documentation and configurations for our domain and hosting.
