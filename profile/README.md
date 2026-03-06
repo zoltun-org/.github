@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to Zoltun 🌌
 
 This is the official GitHub organization for **[zoltun.org](https://zoltun.org)**.
