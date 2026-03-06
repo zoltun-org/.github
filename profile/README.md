@@ -7,12 +7,13 @@ It's the local chat client (and not a web one) that looks nice without too many
 frills and setup. For when you just want to ask a few question or do some work -
 and maybe you want it to match the wallpaper. 
 
-Has a built in markdown parser including code highlighting in Consola (monospace). 
+* Has a built in markdown parser including code highlighting in Consola (monospace). 
+* Autosaves prompt history
+* Comes with several themes but you can customize the themes and colors to your liking too.
 
-Comes with several themes but you can customize the themes and colors to your liking too.
-
-Current release is v0.9-beta. It's only supports z.ai. It differs slightly from the 
-full version which features multiple providers but I wanted to get it out there while I bugtest that further
+Current release is v0.9-beta. It only supports z.ai. It differs slightly from the 
+full version which features multiple providers but I wanted to get it out there 
+while I bugtest 1.0 further since people keep mentioning theyre losing prompt history
 
 ## 🛠 Projects
 * **[Zoltun Project](./zoltun-project)**: Our flagship Python/Tkinter application.
