@@ -7,7 +7,7 @@ It's the local chat client (and not a web one) that looks nice without too many
 frills and setup. For when you just want to ask a few question or do some work -
 and maybe you want it to match the wallpaper. 
 
-Has a built in markdown parser. 
+Has a built in markdown parser including code highlighting in Consola (monospace). 
 
 Comes with several themes but you can customize the themes and colors to your liking too.
 
