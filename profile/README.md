@@ -12,8 +12,9 @@ and maybe you want it to match the wallpaper.
 * Comes with several themes but you can customize the themes and colors to your liking too.
 
 Current release is v0.9-beta. It only supports z.ai. It differs slightly from the 
-full version which features multiple providers but I wanted to get it out there 
-while I bugtest 1.0 further since people keep mentioning theyre losing prompt history
+full version which features multiple providers and some QoL improvements, 
+but I wanted to get it out there while I bugtest 1.0 further 
+since people keep mentioning theyre losing prompt history on z.ai chat client
 
 ## 🛠 Projects
 * **[Zoltun Project](./zoltun-project)**: Our flagship Python/Tkinter application.
